@@ -1,4 +1,5 @@
 // Commit 5-Added registration Flow
+// Commit 6 - Final POE PART 1 complete
 package com.prog5121.prog5121.poe.part1;
 
 import java.util.Scanner;
