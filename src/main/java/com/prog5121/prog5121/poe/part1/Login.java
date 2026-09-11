@@ -1,4 +1,5 @@
 // Commit 2 - Added username validation logic
+// Commit 3 - Added password complexity validation
 package com.prog5121.prog5121.poe.part1;
 
 import java.util.regex.Pattern;
