@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/c35d14f9-27ee-4880-837a-4ebe09458d82" />
+<img width="1366" height="768" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/5f02f197-f373-4190-922d-f27e606c7758" />
 # PROG5121 POE Part 1 - Registration and Login
 
 ## Overview
