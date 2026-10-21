@@ -1,3 +1,4 @@
+// Commit 2 - Added documentation for Part 2
 package com.prog5121.prog5121.poe.part1;
 import java.util.Random;
 
