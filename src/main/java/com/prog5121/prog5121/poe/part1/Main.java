@@ -1,3 +1,4 @@
+// Commit 3 - Console flow logic explained
 package com.prog5121.prog5121.poe.part1;
 import java.util.Scanner;
 import java.util.ArrayList;
