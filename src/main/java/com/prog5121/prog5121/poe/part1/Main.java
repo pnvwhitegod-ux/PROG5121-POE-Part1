@@ -2,7 +2,7 @@
 package com.prog5121.prog5121.poe.part1;
 import java.util.Scanner;
 import java.util.ArrayList;
-
+// Commit 3 - Documented main flow
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
