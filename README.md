@@ -1,3 +1,8 @@
+<img width="1366" height="768" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/fb69e440-4372-43ee-8080-0aa3bac37622" />
+<img width="1366" height="768" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/1b99ac44-5d8c-4980-b5e7-e91d01194689" />
+<img width="1366" height="768" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/8823dc14-e724-42f4-a1f6-807b1fefd3fa" />
+<img width="1366" height="768" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/d60dcb2a-0df3-461a-924c-acb7a873e1c0" />
+<img width="1366" height="768" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/7ca99950-1e3d-4969-95f9-cea3d75f7075" />
 # PROG5121 - POE Part 2 - QuickChat
 
 **Student:** Vutshila Sambo  
