@@ -1,12 +1,9 @@
-<img width="1366" height="768" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/fb69e440-4372-43ee-8080-0aa3bac37622" />
-<img width="1366" height="768" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/1b99ac44-5d8c-4980-b5e7-e91d01194689" />
-<img width="1366" height="768" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/8823dc14-e724-42f4-a1f6-807b1fefd3fa" />
-<img width="1366" height="768" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/d60dcb2a-0df3-461a-924c-acb7a873e1c0" />
-<img width="1366" height="768" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/7ca99950-1e3d-4969-95f9-cea3d75f7075" />
 # PROG5121 - POE Part 2 - QuickChat
 
 **Student:** Vutshila Sambo  
 **Module:** PROG5121 - Programming 1A  
+**YouTube Video (Unlisted): https://youtu.be/R2FXNQy1z_U**  
+**GitHub:** https://github.com/pnvwhitegod-ux/PROG5121-POE-Part1  
 **Project:** PROG5121-POE-Part1 (Reused for Part 2 as per IIE guidelines)
 
 ### Project Overview
@@ -41,6 +38,23 @@ This project reuses Part 1 Login/Registration system and extends it with Part 2 
    - Recipient: +27831234567
    - Message: Hi tonight (to test hash)
 
+### Screenshots
+
+**1. Registration Successful**
+![Screenshot 48](https://github.com/user-attachments/assets/fb69e440-4372-43ee-8080-0aa3bac37622)
+
+**2. Welcome to QuickChat Menu**
+![Screenshot 49](https://github.com/user-attachments/assets/1b99ac44-5d8c-4980-b5e7-e91d01194689)
+
+**3. Message Sent with ID & Hash**
+![Screenshot 50](https://github.com/user-attachments/assets/8823dc14-e724-42f4-a1f6-807b1fefd3fa)
+
+**4. QuickChat Running**
+![Screenshot 51](https://github.com/user-attachments/assets/d60dcb2a-0df3-461a-924c-acb7a873e1c0)
+
+**5. Unit Tests**
+![Screenshot 52](https://github.com/user-attachments/assets/7ca99950-1e3d-4969-95f9-cea3d75f7075)
+
 ### Unit Testing
 - Right-click MessageTest.java -> Test File
 - Result: Tests run: 5, Failures: 0, Errors: 0, Skipped: 0 - BUILD SUCCESS
@@ -51,5 +65,5 @@ This project reuses Part 1 Login/Registration system and extends it with Part 2 
 - JUnit 5.10.3 & JUnit 4.13.2
 - NetBeans IDE
 
-### GitHub
-Project demonstrates Git best practices with regular commits and reuse of Part 1 code.
+### GitHub Best Practices
+Project demonstrates Git best practices with 6 regular commits and reuse of Part 1 code.
