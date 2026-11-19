@@ -1,8 +1,11 @@
+<img width="1366" height="768" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/f214d610-e443-40b8-9b54-aa20d5741726" />
+<img width="1366" height="768" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/16180ed1-7836-4750-ac6b-47e3332a89e0" />
+<img width="1366" height="768" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/0681b9fa-9c65-4c4c-800b-501f98c44fb7" />
+<img width="1366" height="768" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/92d17c54-e88d-409d-a28a-b94bb4b624b0" />
 # PROG5121 POE - QuickChat - Part 3
 **Student:** Vutshila Sambo  
 **Module:** PROG5121 - Programming 1A  
 **GitHub:** https://github.com/pnvwhitegod-ux/PROG5121-POE-Part1  
-**YouTube Part 3:** https://youtu.be/R2FXNQy1z_U
 
 ## Overview
 This project is the final part of the QuickChat POE. It extends Part 1 (Login & Registration) and Part 2 (Sending Messages) with array storage and a full Stored Messages report system.
