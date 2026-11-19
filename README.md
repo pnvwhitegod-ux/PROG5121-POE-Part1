@@ -1,50 +1,35 @@
-# PROG5121 - POE Part 2 - QuickChat
-
+# PROG5121 POE - QuickChat - Part 3
 **Student:** Vutshila Sambo  
 **Module:** PROG5121 - Programming 1A  
-**Project:** PROG5121-POE-Part1 (Reused for Part 2 as per IIE guidelines)
+**GitHub:** https://github.com/pnvwhitegod-ux/PROG5121-POE-Part1  
 
-### Project Overview
-This project reuses Part 1 Login/Registration system and extends it with Part 2 QuickChat messaging features.
+## Overview
+This project is the final part of the QuickChat POE. It extends Part 1 (Login & Registration) and Part 2 (Sending Messages) with array storage and a full Stored Messages report system.
 
-### Features Implemented
+## Part 1 - Login
+- Username must contain `_` and be no more than 5 characters
+- Password must be 8+ characters, with a capital letter, a number and a special character
+- Cell number must be in international format `+27xxxxxxxxx`
+- Login validates username and password and welcomes user by first + last name
 
-**Part 1 Reused:**
-- Username validation (must contain _ and <=5 chars, e.g kyl_1)
-- Password complexity (8+ chars, capital, number, special char e.g Ch&&sec@ke99!)
-- SA Cellphone validation (+27 + 9 digits e.g +27821234567)
-- Registration and Login with status messages
+## Part 2 - QuickChat
+- Send messages (max 250 characters)
+- Recipient must be `+27` and max 12 characters
+- Message ID is a random 10-digit number
+- Message Hash format: `First 2 digits of ID : Message Count : FIRSTWORDLASTWORD`
+    - Example: `Hi tonight` -> `00:0:HITONIGHT`
+- Options: Send / Disregard / Store
+- Stored messages are saved to `storedMessages.json`
 
-**Part 2 New:**
-- QuickChat Welcome Menu (1. Send Messages, 2. Show recently sent messages, 3. Quit)
-- Message ID generation (10-digit random)
-- Recipient cell validation
-- Message length check (max 250 chars)
-- Message Hash creation (e.g Hi tonight -> 00:0:HITONIGHT)
-- Send / Disregard / Store options
-- Array storage for sent messages
-- JUnit 5 Unit Tests (5 tests, all passing)
+## Part 3 - Store Data and Display Task Report (NEW)
 
-### How to Run
-1. Open project in NetBeans IDE 21
-2. Right-click -> Clean and Build
-3. Right-click Main.java -> Run File
-4. Test Credentials:
-   - Username: kyl_1
-   - Password: Ch&&sec@ke99!
-   - Cell: +27821234567
-   - Recipient: +27831234567
-   - Message: Hi tonight (to test hash)
+### Arrays Used
+All arrays are populated from user input, not hard-coded in the main app:
+- `sentMessages` - Messages sent
+- `disregardedMessages` - Messages disregarded
+- `storedMessages` - Messages stored
+- `messageHashes` - Hash for each message
+- `messageIDs` - ID for each message
+- `recipients` - Recipient for each message
 
-### Unit Testing
-- Right-click MessageTest.java -> Test File
-- Result: Tests run: 5, Failures: 0, Errors: 0, Skipped: 0 - BUILD SUCCESS
-
-### Technologies
-- Java 21
-- Maven
-- JUnit 5.10.3 & JUnit 4.13.2
-- NetBeans IDE
-
-### GitHub
-Project demonstrates Git best practices with regular commits and reuse of Part 1 code.
+### Main Menu
